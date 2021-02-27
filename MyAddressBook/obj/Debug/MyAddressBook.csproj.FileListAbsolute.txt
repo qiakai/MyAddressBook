@@ -1,0 +1,13 @@
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\bin\Debug\MyAddressBook.exe.config
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\bin\Debug\MyAddressBook.exe
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\bin\Debug\MyAddressBook.pdb
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\obj\Debug\MyAddressBook.csprojAssemblyReference.cache
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\obj\Debug\MyAddressBook.Form1.resources
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\obj\Debug\MyAddressBook.Properties.Resources.resources
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\obj\Debug\MyAddressBook.csproj.GenerateResource.cache
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\obj\Debug\MyAddressBook.csproj.CoreCompileInputs.cache
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\obj\Debug\MyAddressBook.exe
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\obj\Debug\MyAddressBook.pdb
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\obj\Debug\MyAddressBook.Form2.resources
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\obj\Debug\MyAddressBook.Form3.resources
+E:\迅雷下载\C#\MyAddressBook\MyAddressBook\obj\Debug\MyAddressBook.Form4.resources
